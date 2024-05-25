@@ -27,7 +27,7 @@ My research interests include AI for Physics and AI for Economics. (Multi-agent)
 - *2024.09 - 2029.06(expected)*, Ph.D. of Artificial Intelligence(AI), Gaoling School of Artificial Intelligence(GSAI) in Renmin University of China(RUC).
 
 # 📖 Curriculums
-Advanced Math高等数学(97), Linear Algebra线性代数(95), Data Structure数据结构(92), Probability Theory and Stochastic Process概率论与随机过程(95), Principles of Communications通信原理(100), Principles of Artificial Intelligence人工智能原理(94), Statistical Machine Learning and Applied Practice统计机器学习与实践(94), Big Data Technology and Applications大数据技术与应用(98), Control Theory控制理论(93), Database数据库(94), Security and Authentication安全与认证(91), Ad Hoc Networks自组织网络(90), Wireless Sensor Networks无线传感器网络(92), Radio Frequency Identification(RFID)无线射频感知技术(90), Information Processing Technology on Internet of Things(92)物联网信息处理技术.
+Advanced Math(97), Linear Algebra(95), Data Structure(92), Probability Theory and Stochastic Process(95), Principles of Communications(100), Principles of Artificial Intelligence(94), Statistical Machine Learning and Applied Practice(94), Big Data Technology and Applications(98), Control Theory(93), Database(94), Security and Authentication(91), Ad Hoc Networks(90), Wireless Sensor Networks(92), Radio Frequency Identification(RFID)(90), Information Processing Technology on Internet of Things(92).
 
 # 📝 Publications 
 [Under Review]Zhou Chen, Qi Qi, Wenwei Wang, **Muyang Zhao**. A Comparative Study of Waitlist Mechanisms: Deferral Versus Pay-Per-Offer.
