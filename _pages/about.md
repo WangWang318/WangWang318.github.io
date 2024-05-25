@@ -26,9 +26,12 @@ My research interests include AI for Physics and AI for Economics. (Multi-agent)
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📖 Educations
+# 🏫 Educations
 - *2020.09 - 2024.06 (now)*, B.Eng of Internet of Things(IoT), Beijing University of Posts and Telecommunications(BUPT) and Queen Mary University of London(QMUL) Joint Programme.
 - *2024.09 - 2029.06(expected)*, Ph.D. of Artificial Intelligence(AI), Gaoling School of Artificial Intelligence(GSAI) in Renmin University of China(RUC).
+
+# 📖 Curriculums
+Advanced Math(97), Linear Algebra(95), Data Structure(92), Probability Theory and Stochastic Process (95), Principles of Communications(100), Principles of Artificial Intelligence(94), Statistical Machine Learning and Applied Practice(94), Big Data Technology and Applications (98), Control Theory(93), Database(94), Security and Authentication(91)
 
 # 📝 Publications 
 [Under Review]Zhou Chen, Qi Qi, Wenwei Wang, **Muyang Zhao**. A Comparative Study of Waitlist Mechanisms: Deferral Versus Pay-Per-Offer.
