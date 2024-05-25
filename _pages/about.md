@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm now an undergraduate student majored in Internet of Things(IoT) from Beijing University of Posts and Communications(BUPT) and Queen Mary University of London(QMUL) Joint Programme. In Sep.2024, I will pursue my PhD. career in Gaoling School of Artificial Intelligence(GSAI) in Renmin University of China(RUC). My PhD. supervisors are Hao SUN and Qi QI.
+I'm now an undergraduate student majored in Internet of Things(IoT) from Beijing University of Posts and Communications(BUPT) and Queen Mary University of London(QMUL) Joint Programme. In Sep.2024, I will pursue my Ph.D. degree in Gaoling School of Artificial Intelligence(GSAI) in Renmin University of China(RUC). My PhD. supervisors are Hao SUN and Qi QI.
 
-My research interest includes AI for Physics and AI for Economics.  (multi-agent) reinforcement learning 是一个很好的工具来帮助我研究这两个领域。在我接下来的PhD.阶段，我将专注于 dynamics/equation discovery in complex networks. For example, exploring dynamics equations in bird flocking.
+My research interests include AI for Physics and AI for Economics. (Multi-agent) reinforcement learning is an excellent tool to help me explore these two fields. In my upcoming Ph.D. studies, I will focus on dynamics/equation discovery in complex networks. For example, I will explore dynamics equations in bird flocking.
 
 
 <!-- # 🔥 News
@@ -31,7 +31,7 @@ My research interest includes AI for Physics and AI for Economics.  (multi-agent
 - *2024.09 - 2029.06(expected)*, PhD. of Artificial Intelligence(AI), Gaoling School of Artificial Intelligence(GSAI) in Renmin University of China(RUC).
 
 # 📝 Publications 
-[Under Review]Zhou Chen, Qi Qi, Wenwei Wang, *Muyang Zhao*. A Comparative Study of Waitlist Mechanisms: Deferral Versus Pay-Per-Offer.
+[Under Review]Zhou Chen, Qi Qi, Wenwei Wang, **Muyang Zhao**. A Comparative Study of Waitlist Mechanisms: Deferral Versus Pay-Per-Offer.
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -48,8 +48,8 @@ My research interest includes AI for Physics and AI for Economics.  (multi-agent
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020-2021, 2021-2022* Top award of scholarship in BUPT (only for top3%)
+- *2022-2023* Xiaomi scholarship in BUPT(only for top3%) 
 
 
 
