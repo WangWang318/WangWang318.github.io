@@ -36,6 +36,6 @@ Advanced Math高等数学(97), Linear Algebra线性代数(95), Data Structure数
 # 🎖 Honors and Awards
 - *2020-2021, 2021-2022* Top award of scholarship in BUPT (only for top3%)
 - *2022-2023* Xiaomi scholarship in BUPT(only for top3%) 
-- QMUL Student Enhanced Engagement & Development(SEED) Award: A well performance in co-creation teaching session.
+- QMUL Student Enhanced Engagement & Development(SEED) Award: A well performance in co-creation teaching session and my assignment becomes teaching materials for upcoming students.
 
 
