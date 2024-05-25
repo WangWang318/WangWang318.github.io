@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Muyang ZHAO"
-description              : "I'm interested in AI4Sci. Particulary about AI for physics and AI for economics"
+description              : "I'm interested in AI4Sci. Particularly about AI for physics and AI for Economics"
 repository               : "WangWang318/WangWang318.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -27,7 +27,7 @@ author:
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  # googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "myzhao13@163.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : https://www.linkedin.com/in/muyang-zhao-b7231723a/ # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
