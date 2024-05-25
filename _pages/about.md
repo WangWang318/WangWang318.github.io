@@ -40,6 +40,8 @@ Advanced Math(97), Linear Algebra(95), Data Structure(92), Probability Theory an
 
 # 🌏 Visitor Map
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
+<!-- <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script> -->
 
-
+<div style="text-align: center; line-height: 100px">
+<a href='https://mapmyvisitors.com/web/1bvid'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=ffffff&w=a&t=tt&d=3KEu4KmxOhIyfIq3zK8T6jLZaHbNmayIMRTv0sjMM7U'/></a>
+</div>
