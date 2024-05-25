@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm now an undergraduate student majored in Internet of Things(IoT) from Beijing University of Posts and Communications(BUPT) and Queen Mary University of London(QMUL) Joint Programme. In Sep.2024, I will pursue my Ph.D. degree in Gaoling School of Artificial Intelligence(GSAI) in Renmin University of China(RUC). My PhD. supervisors are Hao SUN and Qi QI.
+I'm now an undergraduate student majored in Internet of Things(IoT) from Beijing University of Posts and Communications(BUPT) and Queen Mary University of London(QMUL) Joint Programme. In Sep.2024, I will pursue my Ph.D. degree in Gaoling School of Artificial Intelligence(GSAI) in Renmin University of China(RUC). My PhD. supervisors are [Hao SUN(孙浩)](https://gsai.ruc.edu.cn/haosun) and [Qi QI(祁琦)](https://gsai.ruc.edu.cn/qiqi).
 
 My research interests include AI for Physics and AI for Economics. (Multi-agent) reinforcement learning is an excellent tool to help me explore these two fields. In my upcoming Ph.D. studies, I will focus on dynamics/equation discovery in complex networks. For example, I will explore dynamics equations in bird flocking.
 
@@ -50,6 +50,7 @@ My research interests include AI for Physics and AI for Economics. (Multi-agent)
 # 🎖 Honors and Awards
 - *2020-2021, 2021-2022* Top award of scholarship in BUPT (only for top3%)
 - *2022-2023* Xiaomi scholarship in BUPT(only for top3%) 
+- QMUL Student Enhanced Engagement & Development(SEED) Award: A well performance in co-creation teaching session.
 
 
 
