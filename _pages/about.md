@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm now an undergraduate student majored in Internet of Things(IoT) from Beijing University of Posts and Communications(BUPT) and Queen Mary University of London(QMUL) Joint Programme. In Sep.2024, I will pursue my Ph.D. degree in Gaoling School of Artificial Intelligence(GSAI) in Renmin University of China(RUC). My PhD. supervisors are [Hao SUN(孙浩)](https://gsai.ruc.edu.cn/haosun) and [Qi QI(祁琦)](https://gsai.ruc.edu.cn/qiqi).
+I'm now an undergraduate student majored in Internet of Things(IoT) from Beijing University of Posts and Communications(BUPT) and Queen Mary University of London(QMUL) Joint Programme. In Sep.2024, I will pursue my Ph.D. degree in [Gaoling School of Artificial Intelligence(GSAI)](http://ai.ruc.edu.cn/) in Renmin University of China(RUC). My Ph.D. supervisors are [Hao SUN(孙浩)](https://gsai.ruc.edu.cn/haosun) and [Qi QI(祁琦)](https://gsai.ruc.edu.cn/qiqi).
 
-My research interests include AI for Physics and AI for Economics. (Multi-agent) reinforcement learning is an excellent tool to help me explore these two fields. In my upcoming Ph.D. studies, I will focus on dynamics/equation discovery in complex networks. For example, I will explore dynamics equations in bird flocking.
+My research interests include AI for Physics and AI for Economics. (Multi-agent) reinforcement learning is an excellent tool to help me explore these two fields. In my upcoming Ph.D. studies, I will focus on dynamics/equation discovery in complex networks. Such as exploring dynamics equations in bird flocking.
 
 
 <!-- # 🔥 News
@@ -28,7 +28,7 @@ My research interests include AI for Physics and AI for Economics. (Multi-agent)
 
 # 📖 Educations
 - *2020.09 - 2024.06 (now)*, B.Eng of Internet of Things(IoT), Beijing University of Posts and Telecommunications(BUPT) and Queen Mary University of London(QMUL) Joint Programme.
-- *2024.09 - 2029.06(expected)*, PhD. of Artificial Intelligence(AI), Gaoling School of Artificial Intelligence(GSAI) in Renmin University of China(RUC).
+- *2024.09 - 2029.06(expected)*, Ph.D. of Artificial Intelligence(AI), Gaoling School of Artificial Intelligence(GSAI) in Renmin University of China(RUC).
 
 # 📝 Publications 
 [Under Review]Zhou Chen, Qi Qi, Wenwei Wang, **Muyang Zhao**. A Comparative Study of Waitlist Mechanisms: Deferral Versus Pay-Per-Offer.
