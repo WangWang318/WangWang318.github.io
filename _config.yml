@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Muyang ZHAO"
-description              : "I'm interested in AI4Sci. Particularly about AI for physics and AI for Economics"
+title                    : "Muyang ZHAO 赵沐阳"
+description              : "I'm interested in AI4Sci. Particularly about AI for Physics and AI for Economics"
 repository               : "WangWang318/WangWang318.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : WangWang318 # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
