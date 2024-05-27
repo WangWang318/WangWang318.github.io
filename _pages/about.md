@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm now an undergraduate student majoring in Internet of Things(IoT) from Beijing University of Posts and Communications(BUPT) and Queen Mary University of London(QMUL) Joint Programme. In Sep.2024, I will pursue my Ph.D. degree in [Gaoling School of Artificial Intelligence(GSAI)](http://ai.ruc.edu.cn/) in Renmin University of China(RUC) and my Ph.D. supervisors will be [Hao SUN(孙浩)](https://gsai.ruc.edu.cn/haosun) and [Qi QI(祁琦)](https://gsai.ruc.edu.cn/qiqi).
+I'm currently an undergraduate student majoring in Internet of Things(IoT) from Beijing University of Posts and Communications(BUPT) and Queen Mary University of London(QMUL) Joint Programme. I'm carrying out my final year project, *Multi-Agent Simulation Based on Game Dynamics* which utilizes deep reinforcement learning to train rational and intelligent agent in different scenarios. In Sep.2024, I will pursue my Ph.D. degree in [Gaoling School of Artificial Intelligence(GSAI)](http://ai.ruc.edu.cn/) in Renmin University of China(RUC) and my Ph.D. supervisors will be [Hao SUN](https://gsai.ruc.edu.cn/haosun) and [Qi QI](https://gsai.ruc.edu.cn/qiqi).
 
-My research interests include AI for Physics and AI for Economics. (Multi-agent) reinforcement learning is an excellent tool to help me explore these two fields. In my upcoming Ph.D. studies, I will focus on dynamics/equations discovery in complex networks. Such as exploring dynamics equations in bird flocking.
+My research interests include AI for Physics and AI for Economics. (Multi-agent) reinforcement learning is an excellent tool to help me explore these two fields. In my upcoming Ph.D. studies, I will focus on dynamics/equations discovery in complex networks. Such as exploring dynamics equations in bird flocking. The methods required for this topic may include graph neural networks, reinforcement learning, graph theory, and time series analysis.
 
 
 # 🏫 Educations
-- *2020.09 - 2024.06 (now)*, B.Eng of Internet of Things(IoT), Beijing University of Posts and Telecommunications(BUPT) and Queen Mary University of London(QMUL) Joint Programme.
+- *2020.09 - 2024.06 (now)*, B.E. of Internet of Things(IoT), Beijing University of Posts and Telecommunications(BUPT) and Queen Mary University of London(QMUL) Joint Programme.
 - *2024.09 - 2029.06(expected)*, Ph.D. of Artificial Intelligence(AI), Gaoling School of Artificial Intelligence(GSAI) in Renmin University of China(RUC).
 
 # 📖 Curriculums
