@@ -34,8 +34,11 @@ Advanced Math(97), Linear Algebra(95), Data Structure(92), Probability Theory an
 
 
 # 🎖 Honors and Awards
-- *2020-2021, 2021-2022* Top award of scholarship in BUPT (only for top3%)
-- *2022-2023* Xiaomi scholarship in BUPT(only for top3%) 
-- QMUL Student Enhanced Engagement & Development(SEED) Award: A well performance in co-creation teaching session and my assignment becomes teaching materials for upcoming students.
+- *2020-2021, 2021-2022* Top award of scholarship in BUPT (only for top3% students)
+- *2022-2023* Xiaomi scholarship in BUPT(only for top3% students) 
+- QMUL Student Enhanced Engagement & Development(SEED) Award: A well performance in co-creation teaching session with lecturer in *Embedded System* and my assignment becomes teaching materials for upcoming students.
 
+# Social Activities
+- *2021-2022, 2022-2023* Member of BUPT Math club academic department together with my friends [Zeju Li](https://staymylove.github.io/)
+- I really enjoy sports, especially basketball and fitness. In basketball, my favorite stars are James Harden, Jalen Brunson, and Manu Ginóbili. All of them have great basketball IQ. Most importantly, they started their careers coming off the bench and eventually became stars. I like to watch NBA game recordings and analyze the tactics. As for fitness, I not only like to improve my strength levels but also focus on functional training, which is training to enhance athletic performance. My dream is to one day use my knowledge to become an NBA trainer or assistant coach.
 
