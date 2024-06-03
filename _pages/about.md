@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently an undergraduate student majoring in Internet of Things(IoT) from Beijing University of Posts and Communications(BUPT) and Queen Mary University of London(QMUL) Joint Programme. I'm carrying out my final year project, *Multi-Agent Simulation Based on Game Dynamics* which utilizes deep reinforcement learning to train rational and intelligent agent in different scenarios. In Sep.2024, I will pursue my Ph.D. degree in [Gaoling School of Artificial Intelligence(GSAI)](http://ai.ruc.edu.cn/) in Renmin University of China(RUC) and my Ph.D. supervisors will be [Hao SUN](https://gsai.ruc.edu.cn/haosun) and [Qi QI](https://gsai.ruc.edu.cn/qiqi).
+I'm currently an undergraduate student majoring in Internet of Things(IoT) from Beijing University of Posts and Communications(BUPT) and Queen Mary University of London(QMUL) Joint Programme. I'm carrying out my final year project, *Multi-Agent Simulation Based on Game Dynamics* which utilizes deep reinforcement learning to train rational and intelligent agent in different scenarios. In Sep.2024, I will pursue my Ph.D. degree in [Gaoling School of Artificial Intelligence(GSAI)](http://ai.ruc.edu.cn/) in Renmin University of China(RUC) and my Ph.D. supervisors will be Hao SUN and Qi QI.
 
 My research interests include AI for Physics and AI for Economics. (Multi-agent) reinforcement learning is an excellent tool to help me explore these two fields. In my upcoming Ph.D. studies, I will focus on dynamics/equations discovery in complex networks. Such as exploring dynamics equations in bird flocking. The methods required for this topic may include graph neural networks, reinforcement learning, graph theory, and time series analysis.
 
@@ -39,6 +39,6 @@ Advanced Math(97), Linear Algebra(95), Data Structure(92), Probability Theory an
 - [QMUL Student Enhanced Engagement & Development(SEED) Award](https://www.qmul.ac.uk/eecs/china/jtlc/project-showcase/co-creation/): A well performance in co-creation teaching session with lecturer in *Embedded System* and my assignment becomes teaching materials for upcoming students.
 
 # 😀 Social Activities
-- *2021-2022, 2022-2023* Member of BUPT Math club academic department together with my friend [Zeju Li](https://staymylove.github.io/).
+- *2021-2022, 2022-2023* Member of BUPT Math club academic department.
 - I really enjoy sports, especially basketball and fitness. In basketball, my favorite stars are James Harden, Jalen Brunson, and Manu Ginóbili. All of them have great basketball IQ. Most importantly, they started their careers coming off the bench and eventually became stars. I like to watch NBA game recordings and analyze the tactics. As for fitness, I not only like to improve my strength levels but also focus on functional training, which is training to enhance athletic performance. My dream is to one day use my knowledge to become an NBA trainer or assistant coach.
 
