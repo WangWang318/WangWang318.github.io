@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently an undergraduate student majoring in Internet of Things(IoT) from Beijing University of Posts and Communications(BUPT) and Queen Mary University of London(QMUL) Joint Programme. I'm carrying out my final year project, *Multi-Agent Simulation Based on Game Dynamics* which utilizes deep reinforcement learning to train rational and intelligent agent in different scenarios. In Sep.2024, I will pursue my Ph.D. degree in [Gaoling School of Artificial Intelligence(GSAI)](http://ai.ruc.edu.cn/) in Renmin University of China(RUC) and my Ph.D. supervisors will be Hao SUN and Qi QI.
+I'm currently an undergraduate student majoring in Internet of Things(IoT) from Beijing University of Posts and Communications(BUPT) and Queen Mary University of London(QMUL) Joint Programme. I'm carrying out my final year project, *Multi-Agent Simulation Based on Game Dynamics* which utilizes deep reinforcement learning to train rational and intelligent agent in different scenarios. In Sep.2024, I will pursue my Ph.D. degree in [Gaoling School of Artificial Intelligence(GSAI)](http://ai.ruc.edu.cn/) in Renmin University of China(RUC).
 
 My research interests include AI for Physics and AI for Economics. (Multi-agent) reinforcement learning is an excellent tool to help me explore these two fields. In my upcoming Ph.D. studies, I will focus on dynamics/equations discovery in complex networks. Such as exploring dynamics equations in bird flocking. The methods required for this topic may include graph neural networks, reinforcement learning, graph theory, and time series analysis.
 
