@@ -23,7 +23,7 @@ My research interests include AI for Physics and AI for Economics. (Multi-agent)
 
 
 # 🏫 Educations
-- *2020.09 - 2024.06 (now)*, B.E. of Internet of Things(IoT), Beijing University of Posts and Telecommunications(BUPT) and Queen Mary University of London(QMUL) Joint Programme.
+- *2020.09 - 2024.06 (now)*, B.E. of Internet of Things(IoT), Beijing University of Posts and Telecommunications(BUPT) and Queen Mary University of London(QMUL) Joint Programme. GPA: 90.44/100 Rank: 3/189.
 - *2024.09 - 2029.06(expected)*, Ph.D. of Artificial Intelligence(AI), Gaoling School of Artificial Intelligence(GSAI) in Renmin University of China(RUC).
 
 # 📖 Curriculums
