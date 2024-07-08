@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I graduated from the Internet of Things (IoT) Joint Programme between Beijing University of Posts and Telecommunications (BUPT) with distinguished honor and Queen Mary University of London (QMUL) with first class honor. In Sep.2024, I will pursue my Ph.D. degree in [Gaoling School of Artificial Intelligence(GSAI)](http://ai.ruc.edu.cn/) in Renmin University of China(RUC).
+I graduated from the Internet of Things (IoT) Joint Programme between Beijing University of Posts and Telecommunications (BUPT) with distinguished honor and Queen Mary University of London (QMUL) with first class honour. In Sep.2024, I will pursue my Ph.D. degree in [Gaoling School of Artificial Intelligence(GSAI)](http://ai.ruc.edu.cn/) in Renmin University of China(RUC).
 
 My research interests include AI for Physics and AI for Economics. (Multi-agent) reinforcement learning is an excellent tool to help me explore these two fields. In my upcoming Ph.D. studies, I will focus on dynamics/equations discovery in complex networks. Such as exploring dynamics equations in bird flocking. The methods required for this topic may include graph neural networks, reinforcement learning, graph theory, and time series analysis.
 
 
 # 🏫 Educations
-- *2020.09 - 2024.06*, B.E. of Internet of Things(IoT), Beijing University of Posts and Telecommunications(BUPT) and Queen Mary University of London(QMUL) Joint Programme. GPA: 90.44/100 Rank: 3/189.
+- *2020.09 - 2024.06*, B.E. of Internet of Things(IoT), Beijing University of Posts and Telecommunications(BUPT) and Queen Mary University of London(QMUL) Joint Programme with first class honour. GPA: 90.44/100 Rank: 3/189.
 - *2024.09 - 2029.06(expected)*, Ph.D. of Artificial Intelligence(AI), Gaoling School of Artificial Intelligence(GSAI) in Renmin University of China(RUC).
 
 # 📖 Curriculums
