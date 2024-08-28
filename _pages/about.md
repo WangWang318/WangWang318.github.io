@@ -16,18 +16,19 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+I'm currently a Ph.D student in [Gaoling School of Artificial Intelligence(GSAI)](http://ai.ruc.edu.cn/) in Renmin University of China(RUC). Before that, I received bachelor degree from the Beijing University of Posts and Telecommunications (BUPT) and Queen Mary University of London (QMUL) Joint Programme majoring in Internet of Things(IoT).
 
-I graduated from the Internet of Things (IoT) Joint Programme between Beijing University of Posts and Telecommunications (BUPT) with distinguished honor and Queen Mary University of London (QMUL) with first class honour. In Sep.2024, I will pursue my Ph.D. degree in [Gaoling School of Artificial Intelligence(GSAI)](http://ai.ruc.edu.cn/) in Renmin University of China(RUC).
 
-My research interests include AI for Physics and AI for Economics. (Multi-agent) reinforcement learning is an excellent tool to help me explore these two fields. In my upcoming Ph.D. studies, I will focus on dynamics/equations discovery in complex networks. Such as exploring dynamics equations in bird flocking. The methods required for this topic may include graph neural networks, reinforcement learning, graph theory, and time series analysis.
+My research interests include AI for Physics and AI for Economics. Basically, both of them can be seen as AI for complex system(since both physical dynamical systems and economic systems can be viewed as complex systems). 
+(Multi-agent) reinforcement learning is an excellent tool to help me explore these two fields. In my upcoming Ph.D. studies, I will focus on dynamics/equations discovery in complex networks such as exploring dynamics equations in bird flocking. Also I'm very interested in contest theory, which relies on mechanism design.
 
 
 # 🏫 Educations
-- *2020.09 - 2024.06*, B.E. of Internet of Things(IoT), Beijing University of Posts and Telecommunications(BUPT) and Queen Mary University of London(QMUL) Joint Programme with first class honour. GPA: 90.44/100 Rank: 3/189.
+- *2020.09 - 2024.06*, B.E. of Internet of Things(IoT), Beijing University of Posts and Telecommunications(BUPT) and Queen Mary University of London(QMUL) Joint Programme with **First Class Honour**. GPA: 90.44/100 Rank: 3/189.
 - *2024.09 - 2029.06(expected)*, Ph.D. of Artificial Intelligence(AI), Gaoling School of Artificial Intelligence(GSAI) in Renmin University of China(RUC).
 
 # 📖 Curriculums
-Advanced Math(97), Linear Algebra(95), Data Structure(92), Probability Theory and Stochastic Process(95), Principles of Communications(100), Principles of Artificial Intelligence(94), Statistical Machine Learning and Applied Practice(94), Big Data Technology and Applications(98), Control Theory(93), Database(94), Security and Authentication(91), Ad Hoc Networks(90), Wireless Sensor Networks(92), Radio Frequency Identification(RFID)(90), Information Processing Technology on Internet of Things(92).
+Advanced Math(97), Linear Algebra(95), Data Structure(92), Probability Theory and Stochastic Process(95), Electronic System(95), Advanced Programming in Java(93), Principles of Communications(100), Principles of Artificial Intelligence(94), Statistical Machine Learning and Applied Practice(94), Big Data Technology and Applications(98), Control Theory(93), Database(94), Security and Authentication(91), Ad Hoc Networks(90), Wireless Sensor Networks(92), Radio Frequency Identification(RFID)(90), Information Processing Technology on Internet of Things(92).
 
 # 📝 Publications 
 [Under Review]Zhou Chen, Qi Qi, Wenwei Wang, **Muyang Zhao**. A Comparative Study of Waitlist Mechanisms: Deferral Versus Pay-Per-Offer.
