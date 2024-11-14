@@ -29,7 +29,7 @@ My research interests include AI for Science with a specific focus on discoverin
 # 📖 Curriculums
 Advanced Math(97), Linear Algebra(95), Data Structure(92), Probability Theory and Stochastic Process(95), Electronic System(95), Advanced Programming in Java(93), Principles of Communications(100), Principles of Artificial Intelligence(94), Statistical Machine Learning and Applied Practice(94), Big Data Technology and Applications(98), Control Theory(93), Database(94), Security and Authentication(91), Ad Hoc Networks(90), Wireless Sensor Networks(92), Radio Frequency Identification(RFID)(90), Information Processing Technology on Internet of Things(92).
 
-# 🙋‍♂️ Academic Involvement
+<!-- # 🙋‍♂️ Academic Involvement
 - **Teaching Assistant** - Python Programming Language \
 *Gaoling School of Artificial Intelligence (GSAI), Renmin University of China(RUC)*\
 *Sep. 2024 - Present*\
@@ -38,7 +38,7 @@ Assisted in the instruction of Python programming, providing support during lect
 - **Guest Lecturer** - Principles of Communications \
 *Beijing University of Posts and Telecommunications(BUPT)*\
 *Nov.  2022*\
- I delivered a specialized short lecture on the Principles of Communications to all students in my major. The lecture primarily focused on Fourier Transform, emphasizing its critical role in analyzing communication signals. I also covered key concepts related to the modulation and demodulation of analog and digital signals, providing insights into how these techniques are applied in real-world communication systems. Additionally, I discussed the design of transmission systems, exploring the fundamental principles that guide the efficient transmission of signals over various types of channels. This lecture provided a detailed understanding of these core concepts, offering my peers a strong foundation for advanced studies in communications.
+ I delivered a specialized short lecture on the Principles of Communications to all students in my major. The lecture primarily focused on Fourier Transform, emphasizing its critical role in analyzing communication signals. I also covered key concepts related to the modulation and demodulation of analog and digital signals, providing insights into how these techniques are applied in real-world communication systems. Additionally, I discussed the design of transmission systems, exploring the fundamental principles that guide the efficient transmission of signals over various types of channels. This lecture provided a detailed understanding of these core concepts, offering my peers a strong foundation for advanced studies in communications. -->
 
 
 <!-- # 📝 Publications 

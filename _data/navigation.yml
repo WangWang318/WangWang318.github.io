@@ -12,8 +12,8 @@ main:
   - title: "Curriculums"
     url: "/#-curriculums"
 
-  - title: "Publications"
-    url: "/#-publications"
+  # - title: "Publications"
+  #   url: "/#-publications"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
