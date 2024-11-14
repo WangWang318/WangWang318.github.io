@@ -19,7 +19,7 @@ redirect_from:
 I'm currently a Ph.D student in [Gaoling School of Artificial Intelligence(GSAI)](http://ai.ruc.edu.cn/) in Renmin University of China(RUC) supervised by Hao Sun and Qi Qi. Before that, I received bachelor degree from the Beijing University of Posts and Telecommunications (BUPT) and Queen Mary University of London (QMUL) Joint Programme majoring in Internet of Things(IoT) with First Class Honor.
 
 
-My research interests include AI for Science with a specific focus on discovering dynamic equations and evolutionary patterns within complex systems. This involves several key areas, including the discovery of network dynamics, where I investigate how individual nodes in a network evolve over time and influence overall system behavior. I am also deeply interested in the discovery of network topologies, aiming to understand how the structure of a network affects its functionality and adaptability, especially in systems undergoing constant change. Through these investigations, I aim to contribute to a deeper understanding of the underlying principles governing complex systems, whether in natural, social, or engineered contexts.
+My research interests include AI for Science with a specific focus on discovering dynamic equations and evolutionary patterns within complex systems. I’m also passionate about multi-agent decision-making systems. Exploring human behavior through game theory and multi-agent reinforcement learning is a fascinating area of study. These two fields converge in their focus on multi-agent systems; whether examining complex networks or agent-based systems, both can be seen as studies of intelligent agents’ phenomena—whether dynamic or behavioral.
 
 
 # 🏫 Educations
