@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I'm currently a Ph.D student in [Gaoling School of Artificial Intelligence(GSAI)](http://ai.ruc.edu.cn/) in Renmin University of China(RUC) supervised by Hao Sun and Qi Qi. Before that, I received bachelor degree from the Beijing University of Posts and Telecommunications (BUPT) and Queen Mary University of London (QMUL) Joint Programme majoring in Internet of Things(IoT) with First Class Honor.
+I'm currently a Ph.D student in [Gaoling School of Artificial Intelligence(GSAI)](http://ai.ruc.edu.cn/) in Renmin University of China(RUC) supervised by Qi Qi and Hao Sun. Before that, I received bachelor degree from the Beijing University of Posts and Telecommunications (BUPT) and Queen Mary University of London (QMUL) Joint Programme majoring in Internet of Things(IoT) with First Class Honor.
 
 
 My research interests include AI for game theory with a specific focus on online advertisement, mechanism design and evolutionary patterns within complex systems. I’m also passionate about multi-agent decision-making systems. Exploring human behavior through game theory and multi-agent reinforcement learning is a fascinating area of study. 
