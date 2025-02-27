@@ -27,7 +27,7 @@ My research interests include AI for game theory with a specific focus on online
 - *2024.09 - 2029.06(expected)*, Ph.D. of Artificial Intelligence(AI), Gaoling School of Artificial Intelligence(GSAI) in Renmin University of China(RUC).
 
 # 📖 Curriculums
-Advanced Math(97), Linear Algebra(95), Data Structure(92), Probability Theory and Stochastic Process(95), Electronic System(95), Advanced Programming in Java(93), Principles of Communications(100), Principles of Artificial Intelligence(94), Statistical Machine Learning and Applied Practice(94), Big Data Technology and Applications(98), Control Theory(93), Database(94), Security and Authentication(91), Ad Hoc Networks(90), Wireless Sensor Networks(92), Radio Frequency Identification(RFID)(90), Information Processing Technology on Internet of Things(92).
+Advanced Math(97), Linear Algebra(95), Probability Theory and Stochastic Process(95), Data Structure and Algorithm(C++)(92), Principles of Communications(100), Principles of Artificial Intelligence(94), Statistical Machine Learning and Applied Practice(94), Big Data Technology and Applications(98), Database(94), Security and Authentication(91), Radio Frequency Identification(RFID)(90), Information Processing Technology on Internet of Things(92).
 
 <!-- # 🙋‍♂️ Academic Involvement
 - **Teaching Assistant** - Python Programming Language \
@@ -48,6 +48,7 @@ Assisted in the instruction of Python programming, providing support during lect
 # 🥇 Honors and Awards
 - *2020-2021, 2021-2022* Top award of scholarship in BUPT (awarded to the top3% of students)
 - *2022-2023* Xiaomi scholarship in BUPT(awarded to the top3% of students) 
+- *First Prize in* The 13th Chinese Mathematics Competitions(全国大学生数学竞赛).
 - I graduated as a distinguished student from Beijing University of Posts and Telecommunications (BUPT), recognized for outstanding academic performance and achievements.
 - [QMUL Student Enhanced Engagement & Development(SEED) Award](https://www.qmul.ac.uk/eecs/china/jtlc/project-showcase/co-creation/): A well performance in co-creation teaching session with lecturer in *Embedded System* and my assignment becomes teaching materials for upcoming students.
 
