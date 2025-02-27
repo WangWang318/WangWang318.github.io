@@ -16,10 +16,10 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I'm currently a Ph.D student in [Gaoling School of Artificial Intelligence(GSAI)](http://ai.ruc.edu.cn/) in Renmin University of China(RUC) supervised by Qi Qi and Hao Sun. Before that, I received bachelor degree from the Beijing University of Posts and Telecommunications (BUPT) and Queen Mary University of London (QMUL) Joint Programme majoring in Internet of Things(IoT) with First Class Honor.
+I'm currently a Ph.D student in [Gaoling School of Artificial Intelligence(GSAI)](http://ai.ruc.edu.cn/) in Renmin University of China(RUC) supervised by Qi Qi and Hao Sun. They have been instrumental in providing invaluable guidance and broadening my academic horizons, while continually inspiring my passion for scientific research. Prior to this, I received bachelor degree from the Beijing University of Posts and Telecommunications (BUPT) and Queen Mary University of London (QMUL) Joint Programme majoring in Internet of Things(IoT) with First Class Honor.
 
 
-My research interests include AI for game theory with a specific focus on online advertisement, mechanism design and evolutionary patterns within complex systems. I’m also passionate about multi-agent decision-making systems. Exploring human behavior through game theory and multi-agent reinforcement learning is a fascinating area of study. 
+My primary research interests lie at the intersection of artificial intelligence and game theory, with particular emphasis on their applications in online advertising ecosystems, mechanism design, and the evolutionary dynamics of complex systems. I am deeply engaged in developing and analyzing multi-agent decision-making systems, where I employ advanced game-theoretic frameworks and multi-agent reinforcement learning techniques to model and understand complex human behaviors and strategic interactions. This interdisciplinary approach not only advances our theoretical understanding of strategic decision-making but also offers practical insights for real-world applications in digital markets and beyond.
 
 
 # 🏫 Educations
