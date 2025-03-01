@@ -16,10 +16,12 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I'm currently a Ph.D student in [Gaoling School of Artificial Intelligence(GSAI)](http://ai.ruc.edu.cn/) in Renmin University of China(RUC) supervised by Qi Qi and Hao Sun. Prior to this, I received bachelor degree from the Beijing University of Posts and Telecommunications (BUPT) and Queen Mary University of London (QMUL) Joint Programme majoring in Internet of Things(IoT) with First Class Honor.
+I'm currently a Ph.D student in [Gaoling School of Artificial Intelligence(GSAI)](http://ai.ruc.edu.cn/) in Renmin University of China(RUC) supervised by [Qi Qi](https://gsai.ruc.edu.cn/qiqi) and [Hao Sun](https://gsai.ruc.edu.cn/haosun). Prior to this, I received bachelor degree from the Beijing University of Posts and Telecommunications (BUPT) and Queen Mary University of London (QMUL) Joint Programme majoring in Internet of Things(IoT) with First Class Honor.
 
 
-My primary research interests lie at the intersection of artificial intelligence and game theory, with particular emphasis on their applications in online advertising ecosystems, mechanism design, and the evolutionary dynamics of complex systems. Also, I am deeply engaged in developing and analyzing multi-agent decision-making systems.
+My primary research interests lie at the intersection of artificial intelligence and game theory, 
+with particular emphasis on their applications in online advertising ecosystems, mechanism design, 
+and the evolutionary dynamics of complex systems. Also, I am deeply engaged in developing and analyzing multi-agent decision-making systems.
 
 
 # 🏫 Educations
@@ -27,7 +29,8 @@ My primary research interests lie at the intersection of artificial intelligence
 - *2024.09 - 2029.06(expected)*, Ph.D. of Artificial Intelligence(AI), Gaoling School of Artificial Intelligence(GSAI) in Renmin University of China(RUC).
 
 # 📖 Curriculums
-Advanced Math(97), Linear Algebra(95), Probability Theory and Stochastic Process(95), Data Structure and Algorithm(C++)(92), Principles of Communications(100), Principles of Artificial Intelligence(94), Statistical Machine Learning and Applied Practice(94), Big Data Technology and Applications(98), Database(94), Security and Authentication(91), Radio Frequency Identification(RFID)(90), Information Processing Technology on Internet of Things(92).
+Advanced Math(97), Linear Algebra(95), Probability Theory and Stochastic Process(95), Data Structure and Algorithm(C++)(92), Principles of Communications(100), 
+Principles of Artificial Intelligence(94), Statistical Machine Learning and Applied Practice(94), Big Data Technology and Applications(98), Database(94), Security and Authentication(91), Radio Frequency Identification(RFID)(90), Information Processing Technology on Internet of Things(92).
 
 <!-- # 🙋‍♂️ Academic Involvement
 - **Teaching Assistant** - Python Programming Language \
