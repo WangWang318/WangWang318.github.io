@@ -19,7 +19,7 @@ redirect_from:
 I'm currently a Ph.D student in [Gaoling School of Artificial Intelligence(GSAI)](http://ai.ruc.edu.cn/) in Renmin University of China(RUC) supervised by [Qi Qi](https://gsai.ruc.edu.cn/qiqi) and [Hao Sun](https://gsai.ruc.edu.cn/haosun). Prior to this, I received bachelor degree from the Beijing University of Posts and Telecommunications (BUPT) and Queen Mary University of London (QMUL) Joint Programme majoring in Internet of Things(IoT) with First Class Honor.
 
 
-My primary research interests lie at the intersection of artificial intelligence and game theory, 
+My primary research interests lie at the intersection of AI and Game Theory, 
 with particular emphasis on their applications in online advertising ecosystems, mechanism design, 
 and the evolutionary dynamics of complex systems. Also, I am deeply engaged in developing and analyzing multi-agent decision-making systems.
 
