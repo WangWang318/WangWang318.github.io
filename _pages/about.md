@@ -23,8 +23,9 @@ I'm currently a Ph.D student in [Gaoling School of Artificial Intelligence(GSAI)
 with particular emphasis on their applications in online advertising ecosystems, mechanism design, 
 and the evolutionary dynamics of complex systems. Also, I am deeply engaged in developing and analyzing multi-agent decision-making systems. -->
 My research interests are as follows:
-The intersection of Artificial Intelligence and Game Theory, with a particular focus on mechanism design and reinforcement learning within online e-commerce platforms.
-Multi-agent systems, specifically exploring multi-agent reinforcement learning and investigating the dynamics inherent in such systems.
+
+- The intersection of Artificial Intelligence and Game Theory, with a particular focus on mechanism design and reinforcement learning within online e-commerce platforms.
+- Multi-agent systems, specifically exploring multi-agent reinforcement learning and investigating the dynamics inherent in such systems.
 
 
 # 🏫 Educations
