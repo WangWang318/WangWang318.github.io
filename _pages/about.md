@@ -32,6 +32,9 @@ My research interests are as follows:
 - *2020.09 - 2024.06*, B.E. of Internet of Things(IoT), Beijing University of Posts and Telecommunications(BUPT) and Queen Mary University of London(QMUL) Joint Programme with **First Class Honour**. GPA: 90.44/100 Rank: 3/189.
 - *2024.09 - 2029.06(expected)*, Ph.D. of Artificial Intelligence(AI), Gaoling School of Artificial Intelligence(GSAI) in Renmin University of China(RUC).
 
+# 📝 Publications 
+[IJTCS-FAW-2025]Zhou Chen, Qi Qi✉, Hao Sun, **Muyang Zhao**. A Comparative Study of Waitlist Mechanisms: Deferral Versus Pay-Per-Offer.
+
 # 📖 Curriculums
 Advanced Math(97), Linear Algebra(95), Probability Theory and Stochastic Process(95), Data Structure and Algorithm(C++)(92), Principles of Communications(100), 
 Principles of Artificial Intelligence(94), Statistical Machine Learning and Applied Practice(94), Big Data Technology and Applications(98), Database(94), Security and Authentication(91), Radio Frequency Identification(RFID)(90), Information Processing Technology on Internet of Things(92).
@@ -47,9 +50,6 @@ Assisted in the instruction of Python programming, providing support during lect
 *Nov.  2022*\
  I delivered a specialized short lecture on the Principles of Communications to all students in my major. The lecture primarily focused on Fourier Transform, emphasizing its critical role in analyzing communication signals. I also covered key concepts related to the modulation and demodulation of analog and digital signals, providing insights into how these techniques are applied in real-world communication systems. Additionally, I discussed the design of transmission systems, exploring the fundamental principles that guide the efficient transmission of signals over various types of channels. This lecture provided a detailed understanding of these core concepts, offering my peers a strong foundation for advanced studies in communications. -->
 
-
-<!-- # 📝 Publications 
-[Under Review]Zhou Chen, Qi Qi, Wenwei Wang, **Muyang Zhao**. A Comparative Study of Waitlist Mechanisms: Deferral Versus Pay-Per-Offer. -->
 
 
 # 🥇 Honors and Awards
