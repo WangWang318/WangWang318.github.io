@@ -33,7 +33,7 @@ My research interests are as follows:
 - *2024.09 - 2029.06(expected)*, Ph.D. of Artificial Intelligence(AI), Gaoling School of Artificial Intelligence(GSAI) in Renmin University of China(RUC).
 
 # 📝 Publications 
-[IJTCS-FAW-2025]Zhou Chen, Qi Qi✉, Hao Sun, **Muyang Zhao**. A Comparative Study of Waitlist Mechanisms: Deferral Versus Pay-Per-Offer[pdf](https://link.springer.com/content/pdf/10.1007/978-981-96-8312-3_19).
+[IJTCS-FAW-2025]Zhou Chen, Qi Qi✉, Hao Sun, **Muyang Zhao**. A Comparative Study of Waitlist Mechanisms: Deferral Versus Pay-Per-Offer[[pdf](https://link.springer.com/content/pdf/10.1007/978-981-96-8312-3_19)].
 
 # 📖 Curriculums
 Advanced Math(97), Linear Algebra(95), Probability Theory and Stochastic Process(95), Data Structure and Algorithm(C++)(92), Principles of Communications(100), 
