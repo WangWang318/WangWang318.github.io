@@ -9,8 +9,8 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Curriculums"
-    url: "/#-curriculums"
+  # - title: "Curriculums"
+  #   url: "/#-curriculums"
 
   - title: "Publications"
     url: "/#-publications"
