@@ -18,10 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 I am currently a Ph.D. student at the [Gaoling School of Artificial Intelligence (GSAI)](http://ai.ruc.edu.cn/), Renmin University of China (RUC), supervised by [Qi Qi](https://gsai.ruc.edu.cn/qiqi) and [Hao Sun](https://gsai.ruc.edu.cn/haosun). Prior to this, I received my Bachelor's degree from the Joint Programme between Beijing University of Posts and Telecommunications (BUPT) and Queen Mary University of London (QMUL), majoring in Internet of Things (IoT), where I graduated with **First Class Honour**.
 
-My research interests lie broadly in decision making, which inolves game theory, causal inference, reinforcement learning. In particular, I am interested in:
+My research interests lie broadly in decision-making, which inolves game theory, causal inference, reinforcement learning and post training for LLMs. In particular, I am interested in:
 
-- Game theory, reinforcement learning, and multi-agent reinforcement learning (MARL), especially understanding strategic interactions and learning dynamics among multiple intelligent agents.
-- Operation Research(OR) for LLMs, including optimization and decision-making frameworks that enhance the reliability, efficiency, and controllability of large language models.
+- **Game theory, reinforcement learning, and multi-agent reinforcement learning (MARL)**: understanding strategic interactions, equilibrium behavior, and learning dynamics among multiple intelligent agents.
+- **Operations Research (OR) for LLMs**: developing optimization and decision-making frameworks to improve the reliability, efficiency, and controllability of large language models
 
 
 # 🏫 Educations
