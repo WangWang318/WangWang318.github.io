@@ -21,7 +21,7 @@ I am currently a Ph.D. student at the [Gaoling School of Artificial Intelligence
 My research interests lie broadly in decision-making, which inolves game theory, causal inference, reinforcement learning and post training for LLMs. In particular, I am interested in:
 
 - **Game theory, Reinforcement Learning, and Multi-Agent Reinforcement Learning**: understanding strategic interactions, equilibrium behavior, and learning dynamics among multiple intelligent agents.
-- **Operations Research (OR) for LLMs**: developing optimization and decision-making frameworks to improve the reliability, efficiency, and controllability of large language models
+- **Operation Research (OR) for LLMs**: developing optimization and decision-making frameworks to improve the reliability, efficiency, and controllability of large language models
 
 
 # 🏫 Educations
