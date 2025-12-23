@@ -16,16 +16,16 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am currently a Ph.D. student at the [Gaoling School of Artificial Intelligence (GSAI)](http://ai.ruc.edu.cn/), Renmin University of China (RUC), supervised by [Qi Qi](https://gsai.ruc.edu.cn/qiqi) and [Hao Sun](https://gsai.ruc.edu.cn/haosun). Prior to this, I received my Bachelor's degree from the Joint Programme between Beijing University of Posts and Telecommunications (BUPT) and Queen Mary University of London (QMUL), majoring in Internet of Things (IoT), where I graduated with **First Class Honours**.
+I am currently a Ph.D. student at the [Gaoling School of Artificial Intelligence (GSAI)](http://ai.ruc.edu.cn/), Renmin University of China (RUC), supervised by [Qi Qi](https://gsai.ruc.edu.cn/qiqi) and [Hao Sun](https://gsai.ruc.edu.cn/haosun). Prior to this, I received my Bachelor's degree from the Joint Programme between Beijing University of Posts and Telecommunications (BUPT) and Queen Mary University of London (QMUL), majoring in Internet of Things (IoT), where I graduated with **First Class Honour**.
 
-My research interests lie broadly in reinforcement learning theory, applications, and its interplay with large language models (LLMs). In particular, I am interested in:
+My research interests lie broadly in decision making, which inolves game theory, causal inference, reinforcement learning. In particular, I am interested in:
 
 - Game theory, reinforcement learning, and multi-agent reinforcement learning (MARL), especially understanding strategic interactions and learning dynamics among multiple intelligent agents.
-- Operational research for LLMs, including optimization and decision-making frameworks that enhance the reliability, efficiency, and controllability of large language models.
+- Operation Research(OR) for LLMs, including optimization and decision-making frameworks that enhance the reliability, efficiency, and controllability of large language models.
 
 
 # 🏫 Educations
-- *2020.09 - 2024.06*, B.E. in Internet of Things(IoT), Beijing University of Posts and Telecommunications(BUPT) and Queen Mary University of London(QMUL) Joint Programme with **First Class Honour**. GPA: 90.44/100 Rank: 3/189.
+- *2020.09 - 2024.06*, B.E. in Internet of Things(IoT), Beijing University of Posts and Telecommunications(BUPT) and Queen Mary University of London(QMUL) Joint Programme with **First Class Honour**. 
 - *2024.09 - 2029.06(expected)*, Ph.D. in Artificial Intelligence(AI), Gaoling School of Artificial Intelligence(GSAI) in Renmin University of China(RUC).
 
 
